@@ -1,7 +1,4 @@
-Perfect Akash! 👨‍💻
-Main aapka **CyberSentinel** project ke liye ek **professional GitHub repository layout** ready kar deta hoon — jisme ho:
 
----
 
 ### 📦 GitHub Repo Content:
 

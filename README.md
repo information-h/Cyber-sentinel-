@@ -123,7 +123,7 @@ This project is licensed under the [MIT License](./LICENSE) © 2025 Akash Kumar 
 **Akash Kumar Shukla**
 Cybersecurity | Python Developer | OSINT Enthusiast
 [LinkedIn](
-linkedin.com/in/akash-kumar-shukla-446a742a1) *(add your real link)*
+linkedin.com/in/akash-kumar-shukla-446a742a1) *(linkedin.com/in/akash-kumar-shukla-446a742a1)*
 
 ---
 
